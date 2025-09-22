@@ -36,4 +36,4 @@ All images are in the images/ folder.
 Deployment
 This website is a static site and can be easily deployed using services like GitHub Pages, Netlify, or Vercel.
 
-Live URL: 
+Live URL: https://plp-webtechnologies-classroom-july2-jade.vercel.app/
